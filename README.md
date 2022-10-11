@@ -1,5 +1,5 @@
 # Steam Deck Wiki
-Steam Deck [Wiki](https://github.com/subworx/steamdeck/wiki/!Home-and-Basics) with stuff, tips, tricks, links, info
+Steam Deck [Wiki](https://github.com/subworx/steamdeck/wiki) with stuff, tips, tricks, links, info
 
 Want to contribute?
 
